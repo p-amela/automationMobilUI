@@ -96,7 +96,7 @@ Para configurar el proyecto y comenzar a ejecutar las pruebas, sigue estos pasos
 
 Clona el repositorio en tu máquina local:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/p-amela/automationMobilUI.git
 
 2\. Instalar las Dependencias con Gradle
 
